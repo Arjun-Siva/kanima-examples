@@ -1,0 +1,3 @@
+[submodule "kanima"]
+	path = kanima
+	url = git@github.com:Arjun-Siva/kanima.git
