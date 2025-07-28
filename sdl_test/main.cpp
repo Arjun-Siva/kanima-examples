@@ -13,6 +13,9 @@ int main()
     config.buffer_height = 360;
     config.buffer_width = 640;
     config.print_info = false;
+    config.rebuild_BVH = false;
+    config.ray_depth = 1;
+    config.num_threads = 8;
 
     // make sure SDL.dll is in the build folder
 

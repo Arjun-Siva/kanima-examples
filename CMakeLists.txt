@@ -4,7 +4,7 @@ project(kanima-examples LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# SDL2 path (update this if needed)
+# SDL2 path (!!!!!!!!! update this to the SDL2 location in your computer)
 set(SDL2_PATH "C:/Qt/SDL2")
 
 # Make SDL2 available to all subdirectories
@@ -25,3 +25,11 @@ add_subdirectory(turntable)
 add_subdirectory(pyramid)
 
 add_subdirectory(pyramid-texture)
+
+add_subdirectory(vertigo)
+
+add_subdirectory(explode)
+
+add_subdirectory(fly)
+
+add_subdirectory(aliasing)
