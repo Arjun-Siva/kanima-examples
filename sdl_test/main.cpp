@@ -12,8 +12,7 @@ int main()
 
     config.buffer_height = 360;
     config.buffer_width = 640;
-
-//    config.print_info = true;
+    config.print_info = false;
 
     // make sure SDL.dll is in the build folder
 

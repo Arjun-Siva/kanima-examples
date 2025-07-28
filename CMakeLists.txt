@@ -19,3 +19,5 @@ add_subdirectory(sdl2_gui)
 
 # example directories
 add_subdirectory(sdl_test)
+
+add_subdirectory(turntable)
