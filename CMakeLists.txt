@@ -21,3 +21,7 @@ add_subdirectory(sdl2_gui)
 add_subdirectory(sdl_test)
 
 add_subdirectory(turntable)
+
+add_subdirectory(pyramid)
+
+add_subdirectory(pyramid-texture)
