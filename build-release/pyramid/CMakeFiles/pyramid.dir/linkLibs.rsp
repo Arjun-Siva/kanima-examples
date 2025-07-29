@@ -1,0 +1,1 @@
+  -LC:/Qt/SDL2/lib  ../kanima/libkanima.a ../sdl2_gui/libsdl2_gui.a ../kanima/libkanima.a -lmingw32 -lSDL2 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\fly.dir/objects.a
+C:\Qt\Qt5.12.10\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\fly.dir/objects.a @CMakeFiles\fly.dir\objects1.rsp
+C:\Qt\Qt5.12.10\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\fly.dir/objects.a -Wl,--no-whole-archive -o fly.exe -Wl,--out-implib,libfly.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fly.dir\linkLibs.rsp

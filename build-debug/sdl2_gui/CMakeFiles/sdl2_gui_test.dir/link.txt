@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\sdl2_gui_test.dir/objects.a
+C:\Qt\Qt5.12.10\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\sdl2_gui_test.dir/objects.a @CMakeFiles\sdl2_gui_test.dir\objects1.rsp
+C:\Qt\Qt5.12.10\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\sdl2_gui_test.dir/objects.a -Wl,--no-whole-archive -o sdl2_gui_test.exe -Wl,--out-implib,libsdl2_gui_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sdl2_gui_test.dir\linkLibs.rsp

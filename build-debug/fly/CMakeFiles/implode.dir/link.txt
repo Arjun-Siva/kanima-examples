@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\implode.dir/objects.a
+C:\Qt\Qt5.12.10\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\implode.dir/objects.a @CMakeFiles\implode.dir\objects1.rsp
+C:\Qt\Qt5.12.10\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\implode.dir/objects.a -Wl,--no-whole-archive -o implode.exe -Wl,--out-implib,libimplode.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\implode.dir\linkLibs.rsp

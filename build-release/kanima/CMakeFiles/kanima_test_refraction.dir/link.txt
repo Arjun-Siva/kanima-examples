@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\kanima_test_refraction.dir/objects.a
+C:\Qt\Qt5.12.10\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\kanima_test_refraction.dir/objects.a @CMakeFiles\kanima_test_refraction.dir\objects1.rsp
+C:\Qt\Qt5.12.10\Tools\mingw730_64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\kanima_test_refraction.dir/objects.a -Wl,--no-whole-archive -o kanima_test_refraction.exe -Wl,--out-implib,libkanima_test_refraction.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kanima_test_refraction.dir\linkLibs.rsp

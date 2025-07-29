@@ -1,0 +1,17 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/welcome/Documents/kanima-examples/build-release/cmake_install.cmake",
+		"C:/Users/welcome/Documents/kanima-examples/build-release/kanima/cmake_install.cmake",
+		"C:/Users/welcome/Documents/kanima-examples/build-release/sdl2_gui/cmake_install.cmake",
+		"C:/Users/welcome/Documents/kanima-examples/build-release/sdl_test/cmake_install.cmake",
+		"C:/Users/welcome/Documents/kanima-examples/build-release/turntable/cmake_install.cmake",
+		"C:/Users/welcome/Documents/kanima-examples/build-release/pyramid/cmake_install.cmake",
+		"C:/Users/welcome/Documents/kanima-examples/build-release/pyramid-texture/cmake_install.cmake",
+		"C:/Users/welcome/Documents/kanima-examples/build-release/vertigo/cmake_install.cmake",
+		"C:/Users/welcome/Documents/kanima-examples/build-release/explode/cmake_install.cmake",
+		"C:/Users/welcome/Documents/kanima-examples/build-release/fly/cmake_install.cmake",
+		"C:/Users/welcome/Documents/kanima-examples/build-release/aliasing/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

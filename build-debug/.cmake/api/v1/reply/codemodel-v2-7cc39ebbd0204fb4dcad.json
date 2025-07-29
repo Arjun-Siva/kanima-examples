@@ -1,0 +1,333 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "kanima",
+					"jsonFile" : "directory-kanima-Debug-1d1ed15ee652ea2905e9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "kanima",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "sdl2_gui",
+					"jsonFile" : "directory-sdl2_gui-Debug-5b4ba5224aa5edfa9378.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sdl2_gui",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "sdl_test",
+					"jsonFile" : "directory-sdl_test-Debug-159909c553c0578a9a6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sdl_test",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "turntable",
+					"jsonFile" : "directory-turntable-Debug-e0f13900f11fd5665534.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "turntable",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "pyramid",
+					"jsonFile" : "directory-pyramid-Debug-c500f03edd5163c640c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "pyramid",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "pyramid-texture",
+					"jsonFile" : "directory-pyramid-texture-Debug-6460cc6a578c9cbed48d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "pyramid-texture",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "vertigo",
+					"jsonFile" : "directory-vertigo-Debug-346814217a9ec4e80f50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "vertigo",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "explode",
+					"jsonFile" : "directory-explode-Debug-c9f7f11449cd5172bd86.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "explode",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "fly",
+					"jsonFile" : "directory-fly-Debug-0706b0f3176332fc1495.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "fly",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "aliasing",
+					"jsonFile" : "directory-aliasing-Debug-e185c258242db5de356b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "aliasing",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"name" : "kanima-examples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "kanima",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 10,
+					"id" : "aliasing::@bde0ec8ebe7c69febed5",
+					"jsonFile" : "target-aliasing-Debug-f80ce76b8517e9d72cb7.json",
+					"name" : "aliasing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "explode::@4364e9c40b93f3357b7e",
+					"jsonFile" : "target-explode-Debug-a2c8accd3d7208a9b287.json",
+					"name" : "explode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "fly::@415011859f6da8d62ae3",
+					"jsonFile" : "target-fly-Debug-9544255a2d486a1ccf9f.json",
+					"name" : "fly",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kanima::@0497686f6ae8ca16597c",
+					"jsonFile" : "target-kanima-Debug-f51c9243942490bb6e41.json",
+					"name" : "kanima",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kanima_test_import::@0497686f6ae8ca16597c",
+					"jsonFile" : "target-kanima_test_import-Debug-942e40ad390f0f262b2b.json",
+					"name" : "kanima_test_import",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kanima_test_refraction::@0497686f6ae8ca16597c",
+					"jsonFile" : "target-kanima_test_refraction-Debug-6b48b0f522e6257d9ff7.json",
+					"name" : "kanima_test_refraction",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "pyramid::@3eec3e3603b4cc08426a",
+					"jsonFile" : "target-pyramid-Debug-f13199e7eeb2e2044c6f.json",
+					"name" : "pyramid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "pyramid_tex::@f81c2ad2a5efb50ebb10",
+					"jsonFile" : "target-pyramid_tex-Debug-7435e5006e616f823a8b.json",
+					"name" : "pyramid_tex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sdl2_gui::@e0e86989dd054c607bfc",
+					"jsonFile" : "target-sdl2_gui-Debug-e7ec891f09504340d527.json",
+					"name" : "sdl2_gui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "sdl_test::@3fcf58de1de81070b8ea",
+					"jsonFile" : "target-sdl_test-Debug-0f133aca8eb7f0de35f9.json",
+					"name" : "sdl_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "turntable::@84872c0111b8177a00e7",
+					"jsonFile" : "target-turntable-Debug-8ee6f98bae0881078aea.json",
+					"name" : "turntable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "vertigo::@d6174608bfc3c11b240f",
+					"jsonFile" : "target-vertigo-Debug-3a536839ff5cf3e1a4b0.json",
+					"name" : "vertigo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/welcome/Documents/kanima-examples/build-debug",
+		"source" : "C:/Users/welcome/Documents/kanima-examples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

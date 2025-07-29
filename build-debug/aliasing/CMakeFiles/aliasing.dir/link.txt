@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\aliasing.dir/objects.a
+C:\Qt\Qt5.12.10\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\aliasing.dir/objects.a @CMakeFiles\aliasing.dir\objects1.rsp
+C:\Qt\Qt5.12.10\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\aliasing.dir/objects.a -Wl,--no-whole-archive -o aliasing.exe -Wl,--out-implib,libaliasing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\aliasing.dir\linkLibs.rsp
